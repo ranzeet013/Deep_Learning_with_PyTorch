@@ -15,6 +15,7 @@ Link:
 [Basics of Pytorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/1.%20PyTorch%20Basics/Pytorch%20Basic%20.ipynb)
 
 
+
 Day_2 of Deep Learning with PyTorch :
 
 Topics:
@@ -24,6 +25,7 @@ Variable and Autograds :
 
 Link:
 [Variable And Autograds in PyTorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/2.%20Variable%20And%20Autograds/Variable%20And%20Gradient.ipynb)
+
 
 
 Day_3 of Deep Learning with PyTorch :
@@ -39,6 +41,7 @@ Link:
 [Activation Function in PyTorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/3.%20Activation%20Functions%20In%20PyTorch/Activation%20Functions%20.ipynb)
 
 
+
 Day_4 of Deep Learning with PyTorch :
 
 Topics:
@@ -48,6 +51,7 @@ Linear Regression :
 
 Link:
 [Linear Regression in PyTorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/4%2C%20Linear%20Regressions)
+
 
 
 Day_5 of Deep Learning with PyTorch :
@@ -61,6 +65,7 @@ Link:
 [Non Linear Regression in PyTorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/5.%20Non%20Linear%20Regression)
 
 
+
 Day_6 of Deep Learning with PyTorch :
 
 Topics:
@@ -70,6 +75,7 @@ Optimizers in PyTorch :
            
 Link:
 [Optimizers in PyTorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/6.%20Optimizers%20In%20PyTorch)
+
 
 
 Day_7 of Deep Learning with PyTorch :
@@ -89,6 +95,7 @@ Link:
 [MNIST Classification](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/7.%20MNIST%20Classification)
 
 
+
 Day_8 of Deep Learning with PyTorch :
 
 Topics:
@@ -100,6 +107,7 @@ Link:
 [Batch Training](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/8.%20Batch%20Training)
 
 
+
 Day_9 of Deep Learning with PyTorch :
 
 Topics:
@@ -109,6 +117,7 @@ DenseNet :
 
 Link:
 [DenseNet in PyTorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/9.DenseNet)
+
 
 
 Day_10 of Deep Learning with PyTorch :
