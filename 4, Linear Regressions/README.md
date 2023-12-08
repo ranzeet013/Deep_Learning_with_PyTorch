@@ -1,4 +1,4 @@
-#  Linear Regression 
+###  Linear Regression 
 
 
 Linear Regression :
@@ -9,7 +9,7 @@ Link:
 
 
 
-#  Multivarient Linear Regression
+###  Multivarient Linear Regression
 
 
 Multivarient Linear Regression :
@@ -19,7 +19,7 @@ Link:
 [Multivarient Linear Regression Notebook](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/4%2C%20Linear%20Regressions/Multivarient%20Linear%20Model)
 
 
-# Naive Linear Regression
+### Naive Linear Regression
 
 
 Naive Linear Regression :
