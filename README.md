@@ -6,7 +6,7 @@ I'm sharing my Deep Learning journey with PyTorch in this repository, featuring 
 
 ### Day_1 of Deep Learning with PyTorch :
 
-- **Deep Learning with PyTorch : **
+- **Deep Learning with PyTorch :**
            Deep Learning with PyTorch is an interdisciplinary pursuit combining computer science and artificial intelligence, centered on enhancing computers' ability to comprehend and process intricate patterns within large datasets. In my ongoing journey, I am delving into the foundations of Deep Learning using PyTorch. I've engaged in comprehensive learning, translating theoretical concepts into practical implementations. The repository showcases clear code and resources, providing a focused approach to mastering deep learning techniques with the PyTorch framework. Similar to the way I've explored Machine Learning, I aim to simplify the complexities, offering insights and practical implementations that facilitate an learning experience. I'm eager to share the upcoming days of exploration and discovery!
 
 Link: 
@@ -62,19 +62,16 @@ Link:
            
 Link:
 [Optimizers in PyTorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/6.%20Optimizers%20In%20PyTorch)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.Images/optimizers-1.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.Images/optimizers-2.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.Images/optimizers-3.png)
 
 
 
 ### Day_7 of Deep Learning with PyTorch :
 
 - **MNIST Classification :**
-      I implemented a neural network for digit classification using PyTorch on the MNIST dataset. Firstly, I imported necessary libraries, including torch for tensor operations, torch.nn for neural network components, and torchvision for dataset handling. Then, I preprocessed the data using transformations and created training and test data loaders.
-
-For building the neural network, I defined a class with three fully connected layers. The model architecture included an input layer (28*28 neurons), a hidden layer (128 neurons), and an output layer (10 neurons for digit classes). I used the CrossEntropyLoss as the loss function and Stochastic Gradient Descent (SGD) as the optimizer.
-
-During training, I ran a loop through multiple epochs, iterating over batches of data. In each iteration, I performed forward and backward passes, calculated the loss, and updated the model's parameters. After training, I evaluated the model on the test dataset, calculating accuracy by comparing predicted and actual labels.
-
-The accuracy represented the percentage of correctly classified digits, and the model achieved satisfactory results. This script demonstrated the end-to-end process of building, training, and testing a neural network for digit recognition using PyTorch.
+      I implemented a neural network for digit classification using PyTorch on the MNIST dataset. Firstly, I imported necessary libraries, including torch for tensor operations, torch.nn for neural network components, and torchvision for dataset handling. Then, I preprocessed the data using transformations and created training and test data loaders.For building the neural network, I defined a class with three fully connected layers. The model architecture included an input layer (28*28 neurons), a hidden layer (128 neurons), and an output layer (10 neurons for digit classes). I used the CrossEntropyLoss as the loss function and Stochastic Gradient Descent (SGD) as the optimizer. During training, I ran a loop through multiple epochs, iterating over batches of data. In each iteration, I performed forward and backward passes, calculated the loss, and updated the model's parameters. After training, I evaluated the model on the test dataset, calculating accuracy by comparing predicted and actual labels.The accuracy represented the percentage of correctly classified digits, and the model achieved satisfactory results. This script demonstrated the end-to-end process of building, training, and testing a neural network for digit recognition using PyTorch.
 
 Link:
 [MNIST Classification](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/7.%20MNIST%20Classification)
