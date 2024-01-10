@@ -62,9 +62,9 @@ Link:
            
 Link:
 [Optimizers in PyTorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/6.%20Optimizers%20In%20PyTorch)
-![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.Images/optimizers-1.png)
-![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.Images/optimizers-2.png)
-![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.Images/optimizers-3.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/optimizers-1.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/optimizers-2.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/optimizers-3.png)
 
 
 
@@ -85,6 +85,7 @@ Link:
 
 Link:
 [Batch Training](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/8.%20Batch%20Training)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/Batch-Training%20.png)
 
 
 
@@ -95,7 +96,7 @@ Link:
 
 Link:
 [DenseNet in PyTorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/9.DenseNet)
-![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.Images/DenseNet-Artitecture.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/DenseNet-Artitecture.png)
 
 
 
