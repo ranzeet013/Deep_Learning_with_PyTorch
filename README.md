@@ -32,8 +32,10 @@ Firstly, I implemented the Rectified Linear Unit (ReLU) activation function, obs
 
 Link:
 [Activation Function in PyTorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/3.%20Activation%20Functions%20In%20PyTorch/Activation%20Functions%20.ipynb)
-
-
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/ReLU.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/TanH.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/Sigmoid.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/SoftPlus.png)
 
 ### Day_4 of Deep Learning with PyTorch :
 
@@ -52,6 +54,8 @@ Link:
 
 Link:
 [Non Linear Regression in PyTorch](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/5.%20Non%20Linear%20Regression)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/Non-Linear-1.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/Non-Linear-2.png)
 
 
 
@@ -75,7 +79,10 @@ Link:
 
 Link:
 [MNIST Classification](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/7.%20MNIST%20Classification)
-
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/MNIST-C1.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/MNIST-C2.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/MNIST-C3.png)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/MNIST-C4.png)
 
 
 ### Day_8 of Deep Learning with PyTorch :
@@ -107,6 +114,7 @@ Link:
 
 Link:
 [ResNet](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/tree/main/10.ResNet)
+![Image](https://github.com/ranzeet013/Deep_Learning_with_PyTorch/blob/main/000.%20Images/ResNet-Artitecture.png)
 
 
 
