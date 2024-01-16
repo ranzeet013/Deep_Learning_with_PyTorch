@@ -1,5 +1,5 @@
 
-#  Deep Learning Journey with PyTorchhh
+#  Deep Learning Journey with PyTorchhhh
 
 I'm sharing my Deep Learning journey with PyTorch in this repository, featuring clear code and resources concentrated on practical implementations of deep learning techniques using the PyTorch framework.
 
